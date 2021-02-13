@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.ui.table tbody {
+  font-size: .8em;
+}
